@@ -9,7 +9,7 @@ Organizations around the world are facing a “data tsunami” as next-generatio
 
 ### [ABD402 - How Esri Optimizes Massive Image Archives for Analytics in the Cloud](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=14666)
 
-[Video](https://www.youtube.com/watch?v=U486YxlDoeM) | Slides
+[Video](https://www.youtube.com/watch?v=U486YxlDoeM) | [Slides](https://www.slideshare.net/AmazonWebServices/how-esri-optimizes-massive-image-archives-for-analytics-in-the-cloud-abd402-reinvent-2017)
 
 Petabyte scale archives of satellites, planes, and drones imagery continue to grow exponentially. They mostly exist as semi-structured data, but they are only valuable when accessed and processed by a wide range of products for both visualization and analysis. This session provides an overview of how ArcGIS indexes and structures data so that any part of it can be quickly accessed, processed, and analyzed by reading only the minimum amount of data needed for the task. In this session, we share best practices for structuring and compressing massive datasets in Amazon S3, so it can be analyzed efficiently. We also review a number of different image formats, including GeoTIFF (used for the Public Datasets on AWS program, Landsat on AWS), cloud optimized GeoTIFF, MRF, and CRF as well as different compression approaches to show the effect on processing performance. Finally, we provide examples of how this technology has been used to help image processing and analysis for the response to Hurricane Harvey.
 
@@ -21,7 +21,7 @@ With geoseismic datasets that are petabytes in size and growing, finding tomorro
 
 ### [CMP201 - Auto Scaling: The Fleet Management Solution for Planet Earth](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=14605)
 
-[Video](https://www.youtube.com/watch?v=WUUbOQyrnJU) | Slides
+[Video](https://www.youtube.com/watch?v=WUUbOQyrnJU) | [Slides](https://www.slideshare.net/AmazonWebServices/auto-scaling-the-fleet-management-solution-for-planet-earth-cmp201-reinvent-2017)
 
 Auto Scaling allows cloud resources to scale automatically in reaction to the dynamic needs of customers. This session shows how Auto Scaling offers an advantage to everyone—whether it's basic fleet management to keep instances healthy as an Amazon EC2 best practice, or dynamic scaling to manage extremes. We share examples of how Auto Scaling helps customers of all sizes and industries unlock use cases and value. We also discuss how Auto Scaling is evolving to scaling different types of elastic AWS resources beyond EC2 instances. Data Scientist & Principal Investigator, Hook Hua, from NASA Jet Propulsion Laboratory (JPL) / California Institute of Technology will share how Auto Scaling is used to scale science data processing of remote sensing data from earth-observing satellite missions, and reduce response times during hazard response events such as those from earthquakes, hurricanes, floods, and volcanoes. JPL will also discuss how they are integrating their science data systems with the AWS ecosystem to expand into NASA’s next two large-scale missions with remote-sensing radar-based observations. Learn how Auto Scaling is being used at a global scale – and beyond!
 
@@ -33,7 +33,7 @@ Learn how Encirca services by DuPont Pioneer utilizes Amazon ECS powered by GPU-
 
 #### [ARC326 - Create a Serverless Image Processing Platform](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=16122)
 
-Video | Slides
+Video | [Slides](https://www.slideshare.net/AmazonWebServices/create-a-serverless-image-processing-platform-arc326-reinvent-2017)
 
 Are you interested in processing images at scale without launching a single virtual machine? In this workshop, we show participants how to create an entirely serverless image processing platform using Amazon Cognito, AWS Lambda, Amazon Rekognition, and Amazon Elasticsearch Service (Amazon ES). Participants leave this workshop with a web portal where users can upload images that ultimately end up in a searchable index powered by Amazon ES and Kibana.
 
@@ -69,7 +69,7 @@ Pacific Northwest National Laboratory's rich data sciences capability has produc
 
 ### [SRV333 - Designing and Implementing a Serverless Media Processing Workflow Using AWS Step Functions](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=15438)
 
-Video | Slides
+Video | [Slides](https://www.slideshare.net/AmazonWebServices/designing-and-implementing-a-serverless-media-processing-workflow-using-aws-step-functions-srv333-reinvent-2017)
 
 This workshop demonstrates how to use AWS Step Functions to coordinate multiple AWS Lambda functions using visual workflows. You learn how to build a Step Functions state machine to orchestrate a multi-step serverless application. You work in teams to design and implement an image recognition and processing workflow using AWS Step Functions, AWS Lambda, Amazon S3, Amazon DynamoDB, and Amazon Rekognition. The workflow process photos uploaded to Amazon S3 and extract metadata from the image, such as geolocation, size, format, and time. It then uses image recognition to tag objects in the photo and produce a thumbnail. Prerequisites: Experience using AWS, an AWS account, AWS CLI. We provide AWS credits for use in the hands-on lab. Bring a laptop.
 
