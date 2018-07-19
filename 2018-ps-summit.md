@@ -29,8 +29,6 @@ Thursday, Jun 21, 2:00 PM - 2:50 PM – Room 144 ABC
 
 ### Global Open Transportation Projects
 
-[Video]() | [Slides]()
-
 The need for public and private entities to collaborate and exchange data about transportation-related issues is becoming more and more prominent. This session will feature The World Bank describing DRIVER, a web and mobile application enabling field data collection and analysis of road safety incidents, currently being tested and piloted in several countries, primarily in Asia. Also featured is SharedStreets, a non-profit developing a global data infrastructure for streets, and creating new models for third-party data exchange.
 
 Thursday, Jun 21, 9:00 AM - 9:50 AM – Room 144 ABC
