@@ -50,7 +50,7 @@ Jupiter is a cloud-native company that delivers hyperlocal environmental informa
 
 ### [DEM22 - Data Quakes: Seismic Analysis with Athena and Amazon Redshift](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89250)
 
-[Video](#) | [Slides](#)
+[Video](https://www.youtube.com/watch?v=5c5Lgy0TTy0) | [Slides](#)
 
 What’s the shakeup in Silicon Valley? Join us as we investigate global subduction zones, highlighting and plotting areas with the deepest earthquakes. Using Amazon Athena, Amazon Redshift, and Matillion ETL for Amazon Redshift, we prepare a semistructured geospatial dataset from the International Federation of Digital Seismograph Networks for visualization. Learn how to build a best-practice architecture using Athena to read and flatten Amazon S3 data, Matillion ETL to perform the more complex data enrichment, and Amazon Redshift for aggregation, before handing off the data to Amazon QuickSight for visualization. This presentation is brought to you by AWS partner, Matillion Limited. 
 
