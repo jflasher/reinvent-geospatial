@@ -55,3 +55,10 @@ After disasters and in rural areas, connectivity is limited, intermittent, or no
 Video | Slides
 
 Managing compute instances to view, run, or share a notebook is tedious. Amazon SageMaker offers several choices to use Jupyter notebooks, including Amazon SageMaker Studio. SageMaker Studio notebooks are one-click Jupyter notebooks that you can spin up quickly. The underlying compute resources are fully elastic, so you can easily dial up or down the available resources, and the changes take place automatically in the background without interrupting your work. You can also easily share notebooks with others, making collaboration easy and scalable. In this session, see a demo of SageMaker Studio and other ways to use Jupyter notebooks for building machine learning models.
+
+
+### Desbloqueando dados do espaço para resolver desafios do planeta Terra (Unlocking space data to solve challenges on planet Earth)
+
+[Media](https://virtual.awsevents.com/media/1_h2s21bx1)
+
+Os dados do espaço habilitam formas sem precedentes para monitorar, compreender e navegar nos dados em nosso planeta em constante mudança. Nesta sessão, apresentaremos toda a jornada do cliente. Demonstrando o pipeline de dados, incluindo a captura e o processamento de imagens geoespaciais usando AWS Ground Station, Sagemaker e Step Functions com base nas experiências de clientes na América Latina. A primeira parte desta apresentação será dedicada à AWS Ground Station, que permite que organizações públicas e privadas façam a ingestão de dados de satélites na AWS, permitindo acesso de baixa latência. A segunda parte da apresentação explorará os recursos de machine learning nas imagens de satélite extraindo insights de negócios endereçando desafios globais.
