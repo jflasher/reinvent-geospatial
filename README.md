@@ -1,3 +1,5 @@
+Note that https://github.com/jeffejefe/reinvent-geospatial is now more up to date.
+
 ## Geospatial Talks from AWS Summits and Events
 Talks, sessions and workshops that may be of interest to those working with geospatial data. PRs accepted!
 
